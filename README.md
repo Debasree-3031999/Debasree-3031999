@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Debasree Ghosh</h1>
-<h3 align="center">A passionate fFull Stack Web-Developerrontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Web-Developerrontend developer from India</h3>
 <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasree-3031999&label=Profile%20views&color=0e75b6&style=flat" alt="debasree-3031999" /> </p>
 
