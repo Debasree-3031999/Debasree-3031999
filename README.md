@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debasree-3031999" alt="debasree-3031999" /></a> </p>
 
-- 🌱 I’m currently learning **learning React-Redux**
+- 🌱 I’m currently learning **learning Next.js**
 
 - 🤝 I’m looking for help with **to collaborate on Projects that involves JavaScript, HTML, CSS, React;React-Redux, MongoDb,Express, Node.js etc**
 
